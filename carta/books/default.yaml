@@ -3,6 +3,7 @@ version: 1
 createdAt: '2022-03-03 12:12:00.000Z'
 data:
 - bookNo: https://librivox.org/don-quixote-vol-1-by-miguel-de-cervantes-saavedra/
+  source: librivox
   id: 480
   title: Don Quixote - Vol. 1
   authors:
@@ -28,6 +29,7 @@ data:
     the top of lists of the greatest works of fiction ever published. (Summary
     from Wikipedia)
 - bookNo: https://librivox.org/brothers-karamazov-v3-by-fyodor-dostoyevsky/
+  source: librivox
   id: 13837
   title: Brothers Karamazov (version 3)
   authors:
@@ -49,6 +51,7 @@ data:
     favorite book for readers as diverse as Albert Einstein, Sigmund Freud,
     Joseph Stalin, Vladimir Putin, and Hillary Clinton. - Summary by Bruce Pirie
 - bookNo: https://librivox.org/the-meditations-of-marcus-aurelius/
+  source: librivox
   id: 1095
   title: The Meditations
   authors:
@@ -65,6 +68,7 @@ data:
     logical, benevolent force organizes the universe in such a way that even
     "bad" occurrences happen for the good of the whole. (Summary by Ticktockman)
 - bookNo: https://librivox.org/through-the-looking-glass-version-6-by-lewis-carroll/
+  source: librivox
   id: 15261
   title: Through the Looking-Glass (Version 6)
   authors:
@@ -85,6 +89,7 @@ data:
     through is still on display in Charlton Kings, Gloucestershire. (Summary by
     Craig Franklin)
 - bookNo: https://librivox.org/the-great-gatsby-2-by-f-scott-fitzgerald/
+  source: librivox
   id: 16945
   title: The Great Gatsby (version 2)
   authors:
@@ -97,6 +102,7 @@ data:
     millionaire Jay Gatsby and Gatsby's obsession to reunite with his former
     lover, Daisy Buchanan (Summary from Wikipedia)
 - bookNo: https://librivox.org/crime-and-punishment-4-by-fyodor-dostoyevsky/
+  source: librivox
   id: 10008
   title: Crime and Punishment (Version 4 Dramatic Reading)
   authors:
@@ -109,6 +115,7 @@ data:
     sister's engagement to a manipulative and unworthy man, and his encounters
     with the impoverished and troubled Marmeladov family. Summary by Mary J.Cast
 - bookNo: https://librivox.org/a-tale-of-two-cities-by-charles-dickens-5/
+  source: librivox
   id: 15669
   title: A Tale of Two Cities (Version 5)
   authors:
@@ -122,6 +129,7 @@ data:
     the story of two men, Charles Darnay and Sydney Carton, who look very alike
     but are entirely different in character.(Summary from Wikipedia)
 - bookNo: https://librivox.org/the-diary-of-a-nobody-by-george-weedon-grossmith/
+  source: librivox
   id: 336
   title: The Diary of a Nobody
   authors:
@@ -136,6 +144,7 @@ data:
     life of this mundane, but upright, city clerk, who had an incontestable
     faith that a record of his daily life was worth preserving for posterity.
 - bookNo: https://librivox.org/anna-karenina-deutsch-by-leo-tolstoy/
+  source: librivox
   id: 10349
   title: Anna Karenina
   authors:
